@@ -6,3 +6,10 @@
 //
 
 import Foundation
+
+public class testTool: NSObject {
+    
+    public func getSting() -> String {
+        return "Mira"
+    }
+}
