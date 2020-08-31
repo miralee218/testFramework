@@ -91,7 +91,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.exclude_files = "Classes/Exclude"
-  spec.source_files = 'Classes/**/*.{h,m}', 'More_Classes/**/*.{h,m}'
+  spec.source_files = 'Classes/**/*.{h,m,swift}', 'More_Classes/**/*.{h,m.swift}'
 
   # spec.public_header_files = "Classes/**/*.h"
 
