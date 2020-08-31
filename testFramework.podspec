@@ -28,7 +28,7 @@ Pod::Spec.new do |spec|
   spec.description  = "for test"
 
   spec.homepage     = "https://github.com/miralee218/testFramework"
-  # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
+  # spec.screenshots  = "https://github.com/miralee218/testFramework"
 
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -79,7 +79,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "http://EXAMPLE/testFramework.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/miralee218/testFramework", :tag => "#{spec.version}" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
