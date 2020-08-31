@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "testFramework"
-  spec.version      = "1.0.0"
+  spec.version      = "0.1.0"
   spec.swift_version = "5.0"
   spec.summary      = "testFramework."
 
