@@ -25,7 +25,7 @@ Pod::Spec.new do |spec|
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  spec.description  = "for test"
+  spec.description  = "It's just for test framework with cocoapods. Print string. "
 
   spec.homepage     = "https://github.com/miralee218/testFramework"
   # spec.screenshots  = "https://github.com/miralee218/testFramework"
